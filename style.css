@@ -65,10 +65,12 @@ align-items: center;
 
 .side {
  Flex-grow: 1;
+ flex-shrink: 2; 
 }
 
 .middle {
 flex-grow: 2;
+flex-shrink: 1;
 }
 
 
