@@ -40,22 +40,27 @@ body{
 
 .start {
 justify-content: flex-start;
+align-items: flex-start;  
 }
 
 .end {
 justify-content: flex-end;
+align-items: flex-end;  
 }
 
 .center {
 justify-content: center;
+align-items: center;
 }
 
 .around {
  justify-content: space-around;
+ align-items: baseline; 
 }
 
 .between {
- justify-content: space-between; 
+ justify-content: space-between;
+ align-items: stretch; 
 }
 
 .side {
