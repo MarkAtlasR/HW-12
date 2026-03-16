@@ -29,6 +29,9 @@ body{
   background: #e8e4e6;
   height: 150px;
   flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: flex-end;
+  
 }
 
 .flex{
